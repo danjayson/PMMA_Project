@@ -1,2 +1,2 @@
-# PMMA_Project
-PMMA_Project Aux mac
+# For PMMA_Project
+just testing how github works
